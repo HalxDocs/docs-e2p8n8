@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-kz3qt6.bighoki61bjl.cyou/sitemap.xml
